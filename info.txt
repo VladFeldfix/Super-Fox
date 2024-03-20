@@ -1,1 +1,0 @@
-                  KEYBOARD:  GAMEPAD:#WALK AND JUMP   - ARROWS     LEFT RIGHT AND 4#RUN             - X          B#THROW STONES    - Z          3#SAVE GAME       - A+S        C#LOAD GAME       - D+F        D#CLEAR HIGHSCORE - C+V        LONG PRESS 1#
